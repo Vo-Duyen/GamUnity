@@ -1,2 +1,2 @@
-# GamUnity
+# GameUnity
 The fruit of passion 
